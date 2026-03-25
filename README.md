@@ -1,10 +1,6 @@
 # Deloitte_Virtual_Internship
 Solutions for Deloitte Technology Virtual Internship tasks including telemetry data transformation and log analysis using Python.
 
-# Deloitte Virtual Internship Projects
-
-This repository contains solutions for Deloitte Technology Virtual Internship tasks.
-
 ## Task 1: Telemetry Data Transformation
 - Converted multiple JSON formats into a unified schema
 - Implemented timestamp normalization (ISO → epoch ms)
