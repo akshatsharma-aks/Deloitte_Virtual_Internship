@@ -7,7 +7,12 @@ Solutions for Deloitte Technology Virtual Internship tasks including telemetry d
 - Used Python and unit testing
 
 ## Task 2: Log Analysis
-- (You will fill after completing next task)
+Prepared a formal software development proposal for a private machine health monitoring dashboard for Daikibo factories.
+Features proposed:
+- Real-time monitoring of 36 machines
+- Collapsible factory and device view
+- Status history visualization
+- Internal authentication integration
 
 ## Tech Stack
 - Python
